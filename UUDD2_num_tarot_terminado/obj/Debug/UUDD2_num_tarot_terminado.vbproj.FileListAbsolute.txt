@@ -1,0 +1,10 @@
+C:\Users\loren\source\repos\UUDD2_num_tarot_terminado\UUDD2_num_tarot_terminado\obj\Debug\UUDD2_num_tarot_terminado.Resources.resources
+C:\Users\loren\source\repos\UUDD2_num_tarot_terminado\UUDD2_num_tarot_terminado\obj\Debug\UUDD2_num_tarot_terminado.vbproj.GenerateResource.Cache
+C:\Users\loren\source\repos\UUDD2_num_tarot_terminado\UUDD2_num_tarot_terminado\obj\Debug\UUDD2_num_tarot_terminado.vbproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\UUDD2_num_tarot_terminado\UUDD2_num_tarot_terminado\bin\Debug\UUDD2_num_tarot_terminado.exe.config
+C:\Users\loren\source\repos\UUDD2_num_tarot_terminado\UUDD2_num_tarot_terminado\bin\Debug\UUDD2_num_tarot_terminado.exe
+C:\Users\loren\source\repos\UUDD2_num_tarot_terminado\UUDD2_num_tarot_terminado\bin\Debug\UUDD2_num_tarot_terminado.pdb
+C:\Users\loren\source\repos\UUDD2_num_tarot_terminado\UUDD2_num_tarot_terminado\bin\Debug\UUDD2_num_tarot_terminado.xml
+C:\Users\loren\source\repos\UUDD2_num_tarot_terminado\UUDD2_num_tarot_terminado\obj\Debug\UUDD2_num_tarot_terminado.exe
+C:\Users\loren\source\repos\UUDD2_num_tarot_terminado\UUDD2_num_tarot_terminado\obj\Debug\UUDD2_num_tarot_terminado.xml
+C:\Users\loren\source\repos\UUDD2_num_tarot_terminado\UUDD2_num_tarot_terminado\obj\Debug\UUDD2_num_tarot_terminado.pdb
